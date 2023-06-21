@@ -1,0 +1,14 @@
+body{
+    background-image: url(./images/railwayimg.jpg);
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+    
+}
+
+#increment-btn{
+    background-color: brown;
+    color: aliceblue;
+    padding: 5px 20px;
+
+}
